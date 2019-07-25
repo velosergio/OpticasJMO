@@ -19,3 +19,11 @@ Cortesia de Colorlib.com, se instala el tema Chasmish y se configura en index.
 * **[NEW!]** *BANNER* - Se crean 2 nuevos Banners y se reorganiza las imagenes.
 * **[NEW!]** *ULTIMO* - Nueva Seccion para mostrar Monturas.
 * **[NEW!]** *Enlaces* - Nueva Seccion para mostrar enlaces rapidos.
+
+### 0.0.4 - JMO Basic Info
+
+* **[NEW!]** *BANNER* - Se crean un nuevo Banner y se reorganiza las imagenes.
+* **[UPDATE]** *ULTIMO* - La Seccion para mostrar Monturas ahora habla del carnet JMO.
+* **[NEW!]** *OPTOMETRIA* - Nueva Seccion para OPTOMETRÍA.
+* **[UPDATE]** *FOOTER* - Actualizada la información del footer.
+* **[STYLE]** *LINKS* - Actualizado el color de los Links.
